@@ -11,4 +11,4 @@ By Default
 * It uses selenium for web scraping.
 * youtube-dl must be installed for this program to work.
 * USAGE :
-	python YSong.py *options
+	python YSong.py *options*
