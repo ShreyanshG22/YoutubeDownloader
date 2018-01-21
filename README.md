@@ -6,6 +6,8 @@ By Default
 * -l		List of 10 search result to choose from
 * -f <filename>	Take names from file
 * -fv <filename>	Take names from file and download video
+* -p		Download first playlist in the list
+* -pl		List 5 Playlist to choose from
 
 * YSong.py is basically a python program to download audio/video from youtube.
 * It uses selenium for web scraping.
